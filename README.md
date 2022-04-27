@@ -1,6 +1,8 @@
+![contacts-app](https://user-images.githubusercontent.com/70021191/165647633-efad07c9-ae64-4b19-9ae2-b84e2a3fa9da.png)
+
 ![contacts-app-number](https://user-images.githubusercontent.com/70021191/165647565-23ec4417-edd8-4e99-b892-cee4c8f0532a.png)
 
-![contacts-app](https://user-images.githubusercontent.com/70021191/165647633-efad07c9-ae64-4b19-9ae2-b84e2a3fa9da.png)
+
 
 # Getting Started with Create React App
 
